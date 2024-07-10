@@ -16,10 +16,20 @@ body{
 
 
 .button{
-    background-color: black;
+    
+    border-radius: 8px;
+    background: rgb(13, 19, 33);
     color: white;
-    border-radius: 3px;
-    font-size: large;
+    border: none;
+    padding: 21px 24px 21px 24px;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0%;
+    text-align: center;
+    display: block;
+    margin: 35px auto;
+    cursor: pointer;
     
 }
 
